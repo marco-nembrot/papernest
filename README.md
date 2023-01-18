@@ -34,7 +34,7 @@ pip install "uvicorn[standard]"
 pip install pandas
 pip install pyproj
 ``` 
-- Download or extract the project within the virtual environment folder.
+- Clone or download / extract the project within the virtual environment folder.
 - Launch project on localhost with `uvicorn main:api`.
 - Go to http://127.0.0.1:8000/docs to access the documentation and try the API from there.
 
